@@ -1,5 +1,5 @@
 Package: bndr
-Title: What the Package Does (One Line, Title Case)
+Title: Baixa e Organiza dados dos Incidentes de Demandas Repetitivas
 Version: 0.0.0.9001
 Authors@R: 
     person(given = "Jose",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "jose@consudata.com.br",
            comment = c(ORCID = "https://orcid.org/0000-0001-7415-7383"))
-Description: What the package does (one paragraph).
+Description: Baixa e organiza dados dos incidentes de demandas repetitivas.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Language: pt_BR
@@ -29,3 +29,5 @@ Imports:
     xml2,
     tibble,
     progress
+URL: https://github.com/jjesusfilho/bndr
+BugReports: https://github.com/jjesusfilho/bndr/issues
