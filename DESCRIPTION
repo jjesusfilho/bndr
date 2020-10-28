@@ -28,6 +28,10 @@ Imports:
     httr,
     xml2,
     tibble,
-    progress
+    progress,
+    jsonlite,
+    janitor
 URL: https://github.com/jjesusfilho/bndr
 BugReports: https://github.com/jjesusfilho/bndr/issues
+Depends: 
+    R (>= 2.10)
